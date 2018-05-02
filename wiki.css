@@ -1,0 +1,33 @@
+#top_img {
+	width: 20%;
+	margin-left: 40%;
+}
+
+#input {
+	margin-top: 5%;
+	margin-left: 25%;
+	width: 50%;
+	border: 3px solid red;
+}
+
+#search {
+	margin-top: 1%;
+	width: 10%;
+	margin-left: 37%;
+}
+#random {
+	margin-top: 1%;
+	width: 10%;
+	margin-left: 8%;
+}
+
+.field {
+	background-color: #C2B6B4FF;
+	margin-left: 10%;
+	margin-top: 5px;
+	width: 80%;
+}
+
+.text1 {
+	margin: 5px 5px 5px 10px;
+}
